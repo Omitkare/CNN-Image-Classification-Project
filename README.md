@@ -24,6 +24,9 @@ To understand the basics of CNNs, implement them using TensorFlow/Keras, and eva
 - Normalized pixel values to range [0, 1]
 - Verified shape and label distribution
 - Train-Test split (80%-20%)
+  ![image alt](https://github.com/Omitkare/CNN-Image-Classification-Project/blob/876cca83e1ea0bc0be6a97ff8e2c1cb0d604fcfc/Sample%20images.png)
+
+---
 
 # Task 2: Build and Train a CNN Model
 - Simple CNN with Conv2D, MaxPooling, Dropout, and Dense layers
@@ -31,11 +34,17 @@ To understand the basics of CNNs, implement them using TensorFlow/Keras, and eva
 - Trained for 10–20 epochs
 - Visualized training and validation accuracy/loss
 - Commented on overfitting/underfitting
+  ![image alt](https://github.com/Omitkare/CNN-Image-Classification-Project/blob/876cca83e1ea0bc0be6a97ff8e2c1cb0d604fcfc/Loss%20Over%20Epochs.png)
+
+---
 
 # Task 3: Model Evaluation
 - Test set accuracy calculated
 - Generated classification report and confusion matrix
 - Showcased correctly & incorrectly predicted images
+ ![image alt](https://github.com/Omitkare/CNN-Image-Classification-Project/blob/876cca83e1ea0bc0be6a97ff8e2c1cb0d604fcfc/Some%20Correct%20and%20Incorrect%20Prediction.png)
+
+---
 
 # Task 4: Model Improvements
 - Tested with other optimizers (SGD, RMSProp)
@@ -50,4 +59,5 @@ To understand the basics of CNNs, implement them using TensorFlow/Keras, and eva
 - NumPy
 - Matplotlib / Seaborn
 - Scikit-learn
+
 
